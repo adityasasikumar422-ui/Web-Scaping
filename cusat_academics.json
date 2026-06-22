@@ -1,0 +1,259 @@
+{
+  "source_url": "https://www.cusat.ac.in/academics",
+  "scraped_at": "2026-06-22 11:32:15",
+  "departments": [
+    {
+      "name": "Heads of Department",
+      "url": "https://www.cusat.ac.in/office/hod"
+    },
+    {
+      "name": "Directors of Centres",
+      "url": "https://www.cusat.ac.in/office/doc"
+    },
+    {
+      "name": "All B.Tech Programmes of School of Engineering, CUSAT, have been Reaccredited by NBA under Tier I Category till December 2028! Congratulations to Faculty, Staff & Students!",
+      "url": "https://www.cusat.ac.in"
+    },
+    {
+      "name": "Know more about our Department",
+      "url": "https://www.cusat.ac.in/dept.php"
+    },
+    {
+      "name": "School of Engineering",
+      "url": "https://www.cusat.ac.in/soe.php"
+    },
+    {
+      "name": "Cochin University College of Engineering, Kuttanad",
+      "url": "https://www.cusat.ac.in/cucek.php"
+    },
+    {
+      "name": "Kunjali Marakkar School of Marine Engineering",
+      "url": "https://www.cusat.ac.in/kmsme.php"
+    },
+    {
+      "name": "Department of Computer Applications",
+      "url": "https://www.cusat.ac.in/dca.php"
+    },
+    {
+      "name": "Department of Computer Science",
+      "url": "https://www.cusat.ac.in/dcs.php"
+    },
+    {
+      "name": "Department of Electronics",
+      "url": "https://www.cusat.ac.in/doe.php"
+    },
+    {
+      "name": "Department of Instrumentation",
+      "url": "https://www.cusat.ac.in/din.php"
+    },
+    {
+      "name": "International School of Photonics",
+      "url": "https://www.cusat.ac.in/photonics.php"
+    },
+    {
+      "name": "Department of Polymer Science and Rubber Technology",
+      "url": "https://www.cusat.ac.in/psrt.php"
+    },
+    {
+      "name": "Department of Ship Technology",
+      "url": "https://www.cusat.ac.in/shiptech.php"
+    },
+    {
+      "name": "School of Environmental Studies",
+      "url": "https://www.cusat.ac.in/ses.php"
+    },
+    {
+      "name": "National Centre for Aquatic Animal Health",
+      "url": "https://www.cusat.ac.in/ncaah.php"
+    },
+    {
+      "name": "Department of English and Foreign Languages",
+      "url": "https://www.cusat.ac.in/defl.php"
+    },
+    {
+      "name": "Department of Hindi",
+      "url": "https://www.cusat.ac.in/hindi.php"
+    },
+    {
+      "name": "Department of Applied Economics",
+      "url": "https://www.cusat.ac.in/dae.php"
+    },
+    {
+      "name": "School of Management Studies",
+      "url": "https://www.cusat.ac.in/sms.php"
+    },
+    {
+      "name": "Centre for Budget Studies",
+      "url": "https://www.cusat.ac.in/cbs.php"
+    },
+    {
+      "name": "School of Marine Sciences",
+      "url": "http://marine.cusat.ac.in/"
+    },
+    {
+      "name": "Department of Atmospheric Sciences",
+      "url": "https://www.cusat.ac.in/das.php"
+    },
+    {
+      "name": "Department of Chemical Oceanography",
+      "url": "https://www.cusat.ac.in/cod.php"
+    },
+    {
+      "name": "Department of Physical Oceanography",
+      "url": "https://www.cusat.ac.in/phy_oce.php"
+    },
+    {
+      "name": "Department of Marine Biology, Microbiology and Biochemistry",
+      "url": "https://www.cusat.ac.in/marinebio.php"
+    },
+    {
+      "name": "Department of Marine Geology and Geophysics",
+      "url": "https://www.cusat.ac.in/marinegeo.php"
+    },
+    {
+      "name": "School of Industrial Fisheries",
+      "url": "https://www.cusat.ac.in/if.php"
+    },
+    {
+      "name": "Department of Applied Chemistry",
+      "url": "https://www.cusat.ac.in/chem.php"
+    },
+    {
+      "name": "Department of Biotechnology",
+      "url": "https://www.cusat.ac.in/biotech.php"
+    },
+    {
+      "name": "Department of Mathematics",
+      "url": "https://www.cusat.ac.in/maths.php"
+    },
+    {
+      "name": "Department of Physics",
+      "url": "https://www.cusat.ac.in/physics.php"
+    },
+    {
+      "name": "Department of Statistics",
+      "url": "https://www.cusat.ac.in/stats.php"
+    },
+    {
+      "name": "Centre for Integrated Studies",
+      "url": "https://www.cusat.ac.in/cis.php"
+    },
+    {
+      "name": "School of Legal Studies",
+      "url": "https://www.cusat.ac.in/sls.php"
+    },
+    {
+      "name": "Inter University Centre for IPR Studies",
+      "url": "https://www.cusat.ac.in/ciprs.php"
+    },
+    {
+      "name": "Department of Physical Education",
+      "url": "http://dpe.cusat.ac.in/"
+    },
+    {
+      "name": "Department of Youth Welfare",
+      "url": "http://welfare.cusat.ac.in/"
+    },
+    {
+      "name": "Department of Public Relations and Publications",
+      "url": "https://www.cusat.ac.in/tejas.php"
+    },
+    {
+      "name": "Advanced Centre for Atmospheric Radar Research (ACARR)",
+      "url": "https://www.cusat.ac.in/acarr.php"
+    },
+    {
+      "name": "Centre for Advanced Materials",
+      "url": "https://www.cusat.ac.in/cam.php"
+    },
+    {
+      "name": "Centre for Information Resource Management (CIRM)",
+      "url": "https://www.cusat.ac.in/cirm.php"
+    },
+    {
+      "name": "Centre for the Development of e-Content (CDeC)",
+      "url": "https://www.cusat.ac.in/cdec.php"
+    },
+    {
+      "name": "Centre for Neuroscience (CNS)",
+      "url": "https://www.cusat.ac.in/cns.php"
+    },
+    {
+      "name": "Centre for Science in Society (C-SIS)",
+      "url": "https://www.cusat.ac.in/c-sis.php"
+    },
+    {
+      "name": "Centre for the study of Social Exclusion and Inclusive Policy",
+      "url": "https://www.cusat.ac.in/csseip.php"
+    },
+    {
+      "name": "Centre for Innovation Technology Transfer and Industrial Collaboration (CITTIC)",
+      "url": "https://www.cusat.ac.in/cittic.php"
+    },
+    {
+      "name": "CUSAT - NCPOR Centre for Polar Science (CNCPS)",
+      "url": "https://www.cusat.ac.in/ncpor.php"
+    },
+    {
+      "name": "Inter University Centre for Nanomaterials and Devices (IUCND)",
+      "url": "https://www.cusat.ac.in/iucnd.php"
+    },
+    {
+      "name": "Interdisciplinary Centre for Research in Ethics and Protocols(ICREP)",
+      "url": "https://www.cusat.ac.in/icrep.php"
+    },
+    {
+      "name": "Sophisticated Test and Instrumentation Centre (STIC)",
+      "url": "https://www.cusat.ac.in/stic.php"
+    },
+    {
+      "name": "Women's Studies Centre",
+      "url": "https://www.cusat.ac.in/wsc.php"
+    }
+  ],
+  "faculty": [],
+  "notices": [],
+  "courses": [
+    {
+      "title": "Institutional Development Plan",
+      "url": "https://www.cusat.ac.in/iqac/MASTER_PLAN_AGENDA_2030.pdf"
+    },
+    {
+      "title": "NAAC IIQA",
+      "url": "https://www.cusat.ac.in/iqac/CUSAT-IIQA.pdf"
+    },
+    {
+      "title": "IIQA Undertaking",
+      "url": "https://www.cusat.ac.in/iqac/CUSAT Declaration.pdf"
+    },
+    {
+      "title": "ARIIA 2021 Report",
+      "url": "https://www.cusat.ac.in/iqac/CUSAT-Atal Ranking 2021-Updated Report.pdf"
+    },
+    {
+      "title": "e-tender procedures",
+      "url": "https://www.cusat.ac.in/uploads/Etender_procedures.pdf"
+    },
+    {
+      "title": "e-tender Circular",
+      "url": "https://www.cusat.ac.in/uploads/CUSAT-PL(B).SO-78993-2024-1.pdf"
+    },
+    {
+      "title": "All B.Tech Programmes of School of Engineering, CUSAT, have been Reaccredited by NBA under Tier I Category till December 2028! Congratulations to Faculty, Staff & Students!",
+      "url": "https://www.cusat.ac.in"
+    },
+    {
+      "title": "Recognized Institutions",
+      "url": "https://www.cusat.ac.in/uploads/List of Recog.colleges 2026-27 AY.pdf"
+    },
+    {
+      "title": "Academic Programmes",
+      "url": "https://www.cusat.ac.in/academics.php"
+    },
+    {
+      "title": "IT Policy",
+      "url": "https://www.cusat.ac.in/uploads/CUSAT_ IT_Policy.pdf"
+    }
+  ],
+  "all_text": "International Students Faculty Admission Examinations Public Relations News Letter Press Releases CUSAT in Media Science Communicator Services offered Careers Recruitment Employment Bureau I Q A C IQAC New Portal IQAC Old Portal IQAC Website NIRF Sustainability Institutional Development Plan NAAC IIQA IIQA Undertaking ARIIA 2021 Report Kerala Specific Factors Industry CUSATECH CITTIC Tenders Active Tenders E-Procurement e-tender procedures e-tender Circular Intranet Old Website(Internal Only) Intercom Request for Mail id Check Attendance eServices Apply Biometric & ID Card Pensioners Minutes of the Syndicate FFMS UniSPARK Finance Wing Rekha@CUSAT Orders/Circulars Health Center News Event Academics Campus Life People Chancellor Pro Chancellor Vice-Chancellor Pro Vice-Chancellor Registrar Finance Officer Controller of Examinations The Syndicate The Senate Academic Council Deans of Faculties Board of Studies - Chairman Heads of Department Directors of Centres CUSAT Faculty University officers Former Vice Chancellors Former Pro Vice Chancellors Research Research Centers Research Areas Open Defences Patents Publications Funding Oppurtunities About us Vision Mission History Alumni Achievements Best Practices Administration Acts and Statutes Annual Reports Contact About Kochi International Students Faculty Admissions Examinations Public Relations News Letter Press Releases CUSAT in Media Science Communicator Services offered Careers Recruitment Employment Bureau IQAC ഐ.ക്യു.എ.സി. IQAC New Portal IQAC Old Portal IQAC Website NIRF Sustainability Institutional Development Plan NAAC IIQA IIQA Undertaking ARIIA 2021 Report Kerala Specific Factors Industry Tenders Active Tenders E-Procurement e-tender procedures e-tender Circular Intranet Intercom Request for Mail id Check Attendance eServices Pensioners Apply Biometric & ID Card Minutes of the Syndicate FFMS UniSPARK Finance Wing Rekha@CUSAT Orders/Circulars Health Center Search Industry Sponsored Researcher - Notification List of validly nominated and elected candidates from various Constituencies - Staff Council Election 2026 NOTIFICATION for Re-Constitution of Staff Council of the University 2026 All B.Tech Programmes of School of Engineering, CUSAT, have been Reaccredited by NBA under Tier I Category till December 2028! Congratulations to Faculty, Staff & Students! News Events People Chancellor Pro Chancellor Vice-Chancellor Pro Vice-Chancellor Registrar Finance Officer Controller of Examinations The Syndicate The Senate Academic Council Deans of Faculties Board of Studies - Chairman Heads of Department Directors of Centres CUSAT Faculty University officers Former Vice Chancellors Former Pro Vice Chancellors Academics Campus Research Recognised Centers Research Areas Open Defences Patents Publications Funding Oppurtunities About us CUSAT The birth of the University of Cochin was with the specific purpose of “development of higher education with particular emphasis on post-graduate studies and research in applied science, technology, industry and commerce”. Later reorganized as CUSAT. Read more Vision Mission History Alumni Achievements Best Practices Administration Acts and Statutes Annual Reports Contact About Kochi A- A A+ Faculties, Departments & Centres The Stature of Cochin University of Science and Technology is as follows Know more about our Department Engineering School of Engineering Cochin University College of Engineering, Kuttanad Kunjali Marakkar School of Marine Engineering Technology Department of Computer Applications Department of Computer Science Department of Electronics Department of Instrumentation International School of Photonics Department of Polymer Science and Rubber Technology Department of Ship Technology Environmental Studies School of Environmental Studies National Centre for Aquatic Animal Health Humanities Department of English and Foreign Languages Department of Hindi Social Sciences Department of Applied Economics School of Management Studies DDU Kaushal Kendras (DDUKK) Centre for Budget Studies Marine Sciences School of Marine Sciences Department of Atmospheric Sciences Department of Chemical Oceanography Department of Physical Oceanography Department of Marine Biology, Microbiology and Biochemistry Department of Marine Geology and Geophysics School of Industrial Fisheries Science Department of Applied Chemistry Department of Biotechnology Department of Mathematics Department of Physics Department of Statistics Centre for Integrated Studies Law School of Legal Studies Inter University Centre for IPR Studies Other Departments Department of Physical Education Department of Youth Welfare Department of Public Relations and Publications Recognized Institutions Centres Advanced Centre for Atmospheric Radar Research (ACARR) Centre for Advanced Materials Centre for Information Resource Management (CIRM) Centre for the Development of e-Content (CDeC) Centre for Neuroscience (CNS) Centre for Science in Society (C-SIS) Centre for the study of Social Exclusion and Inclusive Policy Centre for Innovation Technology Transfer and Industrial Collaboration (CITTIC) CUSAT - NCPOR Centre for Polar Science (CNCPS) DDU Kaushal Kendras (DDUKK) Inter University Centre for IPR Studies Inter University Centre for Nanomaterials and Devices (IUCND) Interdisciplinary Centre for Research in Ethics and Protocols(ICREP) Centre for Budget Studies National Centre for Aquatic Animal Health Sophisticated Test and Instrumentation Centre (STIC) UGC CELL for SC/ST Women's Studies Centre University Library ACADEMIC Research Library Admissions Campus Life Academic Programmes Useful Downloads PUBLIC AFFAIRS Tenders Press Releases IT Policy Careers/Vacancies Certificate Verify System Right to Services Act Right to Information Act REACH OUT Alumni Hostels Placements Youth Welfare Equal Opportunity Cell National Service Scheme Students Union OTHER LINKS Govt. of Kerala Govt. of India e-Pathshala NPTEL NIOS 24x7 Women Helpline Copyrights © 2021 CUSAT. All rights reserved | Disclaimer | Contact"
+}
